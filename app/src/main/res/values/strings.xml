@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">callesemetienearto</string>
+    <string name="name">Example@example.com</string>
+    <string name="pass">Password</string>
+    <string name="mapa">Ubicacion</string>
+    <string name="res"> </string>
+    <string name="Validar">Ingresar</string>
+</resources>
